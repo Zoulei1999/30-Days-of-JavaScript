@@ -2010,5 +2010,5 @@ const countries = [
       flag: 'https://restcountries.eu/data/zwe.svg',
       currency: 'Botswana pula'
     }
-  ]
-  module.exports = {countries};
+]
+module.exports = {countries};
