@@ -10,15 +10,15 @@ These are my solutions/attempts at answering the Questions provided in the 30 da
 * Day 6: [Loops](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/06_Day_Loops/06_day_loops.md)- ✅
 * Day 7: [Functions](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/07_Day_Functions/07_day_functions.md)- ✅
 * Day 8: [Objects](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/08_Day_Objects/08_day_objects.md)- ✅
-* Day 9: [Higher Order Functions](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/09_Day_Higher_order_functions/09_day_higher_order_functions.md)- ❌
-* Day 10: [Sets and Maps](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/10_Day_Sets_and_Maps/10_day_Sets_and_Maps.md)- ❌
-* Day 11: [Destructuring and Spreading](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/11_Day_Destructuring_and_spreading/11_day_destructuring_and_spreading.md)- ❌
-* Day 12: [Regular Expressions](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/12_Day_Regular_expressions/12_day_regular_expressions.md)- ❌
-* Day 13: [Console Object Methods](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/13_Day_Console_object_methods/13_day_console_object_methods.md)- ❌
-* Day 14: [Error Handling](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/14_Day_Error_handling/14_day_error_handling.md)- ❌
-* Day 15: [Classes](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/15_Day_Classes/15_day_classes.md)- ❌
-* Day 16: [JSON](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/16_Day_JSON/16_day_json.md)- ❌
-* Day 17: [Web Storages](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/17_Day_Web_storages/17_day_web_storages.md)- ❌
+* Day 9: [Higher Order Functions](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/09_Day_Higher_order_functions/09_day_higher_order_functions.md)- ✅
+* Day 10: [Sets and Maps](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/10_Day_Sets_and_Maps/10_day_Sets_and_Maps.md)- ✅
+* Day 11: [Destructuring and Spreading](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/11_Day_Destructuring_and_spreading/11_day_destructuring_and_spreading.md)- ✅
+* Day 12: [Regular Expressions](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/12_Day_Regular_expressions/12_day_regular_expressions.md)- ✅
+* Day 13: [Console Object Methods](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/13_Day_Console_object_methods/13_day_console_object_methods.md)- ✅
+* Day 14: [Error Handling](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/14_Day_Error_handling/14_day_error_handling.md)- ✅
+* Day 15: [Classes](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/15_Day_Classes/15_day_classes.md)- ✅
+* Day 16: [JSON](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/16_Day_JSON/16_day_json.md)- ✅
+* Day 17: [Web Storages](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/17_Day_Web_storages/17_day_web_storages.md)- ✅
 * Day 18: [Promises](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/18_Day_Promises/18_day_promises.md)- ❌
 * Day 19: [Closure](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/19_Day_Closures/19_day_closures.md)- ❌
 * Day 20: [Writing Clean Code](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/20_Day_Writing_clean_codes/20_day_writing_clean_codes.md)- ❌
