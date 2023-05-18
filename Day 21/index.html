@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p class="Para" id="P1"></p>
+    <p class="Para" id="P2"></p>
+    <p class="Para" id="P3"></p>
+    <p class="Para" id="P4"></p>
+
+    <script>
+        //1
+        let firstparagraph = document.querySelector('p');
+        //2
+        let firstp = document.querySelector('#P1');
+        let secondp = document.querySelector('#P2');
+        let thirdp = document.querySelector('#P3');
+        let fourthp = document.querySelector('#P4');
+        //3
+        let allp = document.querySelectorAll('p');
+        //4
+        allp.forEach(x => console.log(x.textContent));
+        //5
+        fourthp.textContent = 'Fourth Paragraph';
+        //6
+        allp.forEach(x => x.classList.add('paragraph'));
+
+        firstp.setAttribute('class', 'First-Paragraph');
+
+        thirdp.className = 'third-Paragraph';
+
+        //2.1
+        allp.forEach(x => {
+            x.style.color = 'blue';
+            x.style.background = 'black';
+            x.style.border = 'red';
+            x.style.font = '15px';
+            x.style.fontFamily = 'Times New Roman';
+        })
+        //2.2
+        let counter = 1;
+        for(let each of allp){
+            each.style.color = 'white';
+            if(counter % 2 === 0){
+                each.style.color = 'red';
+            }else{
+                each.style.color = 'green';
+            }
+            counter++;
+        }
+        //2.3
+        let x = 1;
+        for(let each of allp){
+            if(x == 1){
+                each.textContent = `${x}st Paragraph`;
+            }else if(x === 2){
+                each.textContent = `${x}nd Paragraph`;
+            }else if(x === 3){
+                each.textContent = `${x}rd Paragraph`;
+            }else{
+                each.textContent = `${x}th Paragraph`;
+            }
+            each.setAttribute('id', `${x}-Paragraph`);
+            each.setAttribute('class','Paragraph');
+            x++
+        }
+    </script>
+</body>
+</html>
