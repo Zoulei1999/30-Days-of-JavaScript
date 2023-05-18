@@ -171,3 +171,49 @@ info.style.padding = '5px';
 wrapper.appendChild(info);
 
 
+
+let detail = document.createElement('div');
+let Ttag = document.createElement('h2');
+Ttag.textContent = 'Title';
+Ttag.style.fontSize = '20px';
+Ttag.style.fontWeight = '400';
+Ttag.style.marginBottom = '5px';
+Ttag.style.padding = '5px';
+wrapper.appendChild(Ttag);
+
+for(let i = 0 ; i < asabenehChallenges2020.author.titles.length; i++){
+    let titles = document.createElement('ul');
+    titles.textContent = asabenehChallenges2020.author.titles[i];
+    wrapper.appendChild(titles);
+}
+
+let skills = document.createElement('div');
+let Stag = document.createElement('h2');
+Stag.textContent = 'Skills';
+Stag.style.fontSize = '20px';
+Stag.style.fontWeight = '400';
+Stag.style.marginBottom = '5px';
+Stag.style.padding = '5px';
+wrapper.appendChild(Stag);
+
+for(let i = 0 ; i < asabenehChallenges2020.author.skills.length; i++){
+    let skill = document.createElement('ul');
+    skill.textContent = asabenehChallenges2020.author.skills[i];
+    wrapper.appendChild(skill);
+}
+
+let Quali = document.createElement('div');
+let Qtag = document.createElement('h2');
+Qtag.textContent = 'Qualifications';
+Qtag.style.fontSize = '20px';
+Qtag.style.fontWeight = '400';
+Qtag.style.marginBottom = '5px';
+Qtag.style.padding = '5px';
+wrapper.appendChild(Qtag);
+
+for(let i = 0 ; i < asabenehChallenges2020.author.qualifications.length; i++){
+    let qual = document.createElement('ul');
+    qual.textContent = asabenehChallenges2020.author.qualifications[i];
+    wrapper.appendChild(qual);
+}
+wrapper.appendChild(detail)
