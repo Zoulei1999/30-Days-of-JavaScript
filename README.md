@@ -19,13 +19,13 @@ These are my solutions/attempts at answering the Questions provided in the 30 da
 * Day 15: [Classes](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/15_Day_Classes/15_day_classes.md)- ✅
 * Day 16: [JSON](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/16_Day_JSON/16_day_json.md)- ✅
 * Day 17: [Web Storages](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/17_Day_Web_storages/17_day_web_storages.md)- ✅
-* Day 18: [Promises](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/18_Day_Promises/18_day_promises.md)- ❌
-* Day 19: [Closure](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/19_Day_Closures/19_day_closures.md)- ❌
-* Day 20: [Writing Clean Code](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/20_Day_Writing_clean_codes/20_day_writing_clean_codes.md)- ❌
-* Day 21: [DOM](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/21_Day_DOM/21_day_dom.md)- ❌
-* Day 22: [Manipulating DOM Object](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/22_Day_Manipulating_DOM_object/22_day_manipulating_DOM_object.md)- ❌
-* Day 23: [Event Listeners](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/23_Day_Event_listeners/23_day_event_listeners.md)- ❌
-* Day 24: [Mini Project: Solar System](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/23_Day_Event_listeners/23_day_event_listeners.md)- ❌
+* Day 18: [Promises](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/18_Day_Promises/18_day_promises.md)- ✅
+* Day 19: [Closure](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/19_Day_Closures/19_day_closures.md)- ✅
+* Day 20: [Writing Clean Code](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/20_Day_Writing_clean_codes/20_day_writing_clean_codes.md)- ✅
+* Day 21: [DOM](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/21_Day_DOM/21_day_dom.md)- ✅
+* Day 22: [Manipulating DOM Object](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/22_Day_Manipulating_DOM_object/22_day_manipulating_DOM_object.md)- ✅
+* Day 23: [Event Listeners](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/23_Day_Event_listeners/23_day_event_listeners.md)- ✅
+* Day 24: [Mini Project: Solar System](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/24_Day_Project_solar_system/24_day_project_solar_system.md) - ✅
 * Day 25: [Mini Project: World Countries Data Visualization 1](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/25_Day_World_countries_data_visualization_1/25_day_world_countries_data_visualization_1.md)- ❌
 * Day 26: [Mini Project: World Countries Data Visualization 2](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/26_Day_World_countries_data_visualization_2/26_day_world_countries_data_visualization_2.md)- ❌
 * Day 27: [Mini Project: Portfolio](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/27_Day_Mini_project_portfolio/27_day_mini_project_portfolio.md)- ✅
